@@ -1,0 +1,15 @@
+h1 {
+    background-color: darksalmon; 
+    font-family: monospace;
+    color: brown;
+    border:dashed 5px #000000;
+    border-radius: 30px;
+}
+h2 {
+    background-color: darkgrey;
+    font-family: serif;
+    color: ;
+    text-decoration: line-through;
+    text-shadow: 3px 3px; 
+    background:-webkit-gradient(radial, 228 52, 0, 220 -257, 465, from(#0000FF), to(#FF0000))
+}
